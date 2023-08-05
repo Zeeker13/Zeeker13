@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeker13&label=Profile%20views&color=0e75b6&style=flat" alt="zeeker13" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://ashenhewavitharana.netlify.app](https://ashenhewavitharana.netlify.app)
 
